@@ -1,0 +1,1 @@
+3. Não, a carta Lacaio recebe o atributo nome pelo metodo Super, e como o atributo não esta diretamente na classe, ele da erro por conta do principio do encapsulamento.

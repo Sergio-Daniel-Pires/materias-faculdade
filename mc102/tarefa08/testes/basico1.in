@@ -1,0 +1,15 @@
+abrir
+999
+depositar
+999 100.00 10/01/2021 Primeiro depósito
+depositar
+999 105.00 01/10/2021 Segundo depósito
+saldo
+999
+sacar
+999 180.00 03/11/2021 Pagamento
+abrir
+123
+saldo
+123
+sair

@@ -1,0 +1,3 @@
+1. Por conta dos Generics em java, nós temos que fazer um cast dentro do metodo usar, senao ele tenta pegar o metodo generico e a funcao que queremos la não existe.
+
+2. podemos usar a palavra 'final' isso garante que ela nao pode ser alterada depois de criada, podemos tambem combinar com o static para garantir que todos os codigos compartilharão do mesmo valor.

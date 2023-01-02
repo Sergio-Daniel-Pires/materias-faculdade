@@ -1,0 +1,42 @@
+66355 aberta 0 nenhuma movimentação
+34039 aberta 0 nenhuma movimentação
+90840 aberta 0 nenhuma movimentação
+93264 aberta 0 nenhuma movimentação
+38313 aberta 0 nenhuma movimentação
+16090 aberta 0 nenhuma movimentação
+90840 Depósito 7206.32 0.0 21/01/2021 in in
+35735 aberta 0 nenhuma movimentação
+25517 aberta 0 nenhuma movimentação
+25517 fechada
+34039 fechada
+90840 Saque -5793.73 7206.32 18/02/2021 Duis et accumsan
+25517 aberta 0 nenhuma movimentação
+25517 fechada
+25517 aberta 0 nenhuma movimentação
+66355 Depósito 8994.20 0.0 28/03/2021 feugiat tincidunt eget consectetur
+25517 Depósito 6969.87 0.0 07/04/2021 lacus magna porttitor ipsum Ut ex sapien in rhoncus
+90840 Saque -1412.58 1412.5900000000001 18/04/2021 ac posuere blandit augue in
+66355 Saque -8994.20 8994.2 07/05/2021 gravida luctus eu interdum viverra dolor
+34039 aberta 0 nenhuma movimentação
+93264 Depósito 3066.16 0.0 28/05/2021 sodales
+38313 Depósito 3495.90 0.0 30/05/2021 luctus Ut dolor posuere augue quam nisl neque
+35735 Depósito 6640.72 0.0 19/06/2021 neque
+93264 Depósito 8374.69 3066.16 18/06/2021 lacus finibus tellus rutrum
+66355 fechada
+16090 Depósito 714.89 0.0 14/07/2021 magna lorem
+66355 aberta 0 nenhuma movimentação
+38313 Saque -3495.90 3495.9 14/08/2021 tincidunt ex nulla augue diam dui
+16090 Depósito 8982.14 714.89 27/08/2021 consequat erat adipiscing accumsan Duis pulvinar neque ultrices
+25517 Depósito 8699.27 6969.87 16/08/2021 blandit blandit Proin nec ex a Nam
+66355 Depósito 2493.32 0.0 31/08/2021 interdum
+25517 Saque -15669.13 15669.14 16/09/2021 dolor magna In
+93264 Depósito 1863.13 11440.85 22/09/2021 fringilla nec
+90840 Depósito 7063.11 0.010000000000218279 06/10/2021 fringilla ornare erat
+66355 Saque -2493.32 2493.32 16/10/2021 libero rhoncus est sodales Duis dui
+66355 fechada
+38313 Depósito 1379.42 0.0 06/11/2021 eros Aliquam erat
+93264 Saque -13303.98 13303.98 07/11/2021 Aliquam elit lorem
+35735 Saque -6640.72 6640.72 22/11/2021 lorem consectetur
+34039 fechada
+34039 aberta 0 nenhuma movimentação
+16090 Depósito 3829.89 9697.029999999999 02/12/2021 ex sit molestie

@@ -1,0 +1,5 @@
+Atividade 1.5
+Sim, pq uma lista precisa levar em conta a posição a do elemento, logo, repeticoes precisam aparecer
+
+Atividade 2.4
+Nao aceita, cada item repetido tem o mesmo hash, logo ocupam a mesma posicao, logo, só existe um

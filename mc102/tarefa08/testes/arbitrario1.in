@@ -1,0 +1,21 @@
+abrir
+111
+depositar
+111 500.00 10/10/2021 Depósito num. 2
+depositar
+111 150.00 09/10/2021 Depósito num. 1
+sacar
+111 151.00 12/12/2021 Pagamento
+saldo
+1111
+sacar
+111 500.00 12/12/2021 Transferência PIX
+extrato
+111 01/03/2021
+sacar
+111 349.00 31/12/2021 Último saque
+fechar
+111
+saldo
+111
+sair

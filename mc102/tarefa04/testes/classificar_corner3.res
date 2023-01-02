@@ -1,0 +1,4 @@
+seguro
+seguro
+nenhum
+seguro

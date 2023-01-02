@@ -1,0 +1,11 @@
+1. O Java vai retornar um erro ao tentar adicionar o decimo primeiro elemento, ele fala que excede o index do array de 10.
+
+2. Ira apresentar um erro, do tipo 'fora dos limites do array', isso acontece por que o array esta contido entre 0 e 10 (limite estático definido por nos)
+
+3. Por que uma vez que temos um gerador aleatorio declarado, não precisamos de novos geradores, então utilizamos o escopo estático, porque ai todos as classes do pacote utilizam do mesmo gerador ao inves de ser criado um novo para cada um, como seria se ele fosse nao-estatico (assim economizando muita memoria)
+
+4. Por que ele é inicializado na criação da classe, apenas uma vez, no inicio da execução do programa.
+
+5. Ter só uma inialização no metodo e todas as vezes que formos chamar ele, ele só executa novamente a mesma ação só que para outro objeto.
+
+6. Muitos dos metodos que precisariam ser implementados do zero na classe, se tornam simplesmente utilizar metodos ja implementados, testados e otimizados, não por uma so pessoa, mas sim por muitos e muitos programadores, que com o tempo foram aperfeicoando o codigo. 

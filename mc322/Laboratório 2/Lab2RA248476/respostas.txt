@@ -1,0 +1,13 @@
+1. Eles são imprimidos zerados, porque o java usa alguns valores padroes por default
+
+2. Pegando/Mudando os atributos com a funcao getAtaque e setAtaque funcionou
+
+3. Quando passamos o objeto para printar, ele possui um metodo toString, porém, como queremos uma saida personalizada, sobscrevemos o metodo toString usando o @Override
+
+4. Nenhuma diferença na saida, porem eles foram instanciados por construtores diferentes.
+
+5. Ele nao pode ser acessado Por questoes de segurança.
+Por exemplo, quando escrevemos um metodo para alterar parametros de um objeto, temos a certeza que não deixaremos erros acontecerem, por exemplo, um objeto de uma forma geometrica com lado negativo.
+Ja os metodos nós utilizamos porque so eles, por estarem encapsulados na mesma classe, conseguem acessar os atributos da classe.
+
+6. No código.

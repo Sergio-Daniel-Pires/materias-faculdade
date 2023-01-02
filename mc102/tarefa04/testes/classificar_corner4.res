@@ -1,0 +1,9 @@
+nenhum
+nenhum
+nenhum
+nenhum
+seguro
+seguro
+malicioso
+seguro
+malicioso
